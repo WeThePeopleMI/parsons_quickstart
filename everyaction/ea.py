@@ -1,3 +1,4 @@
+# parsons everyaction docs https://move-coop.github.io/parsons/html/stable/ngpvan.html
 from parsons import Table as table, VAN
 import everyaction_creds
 van = VAN(db='EveryAction')
@@ -58,3 +59,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+

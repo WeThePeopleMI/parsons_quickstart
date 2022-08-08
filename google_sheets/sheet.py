@@ -1,3 +1,6 @@
+# parsons google sheet docs https://move-coop.github.io/parsons/html/stable/google.html#id15
+# Table object type info https://move-coop.github.io/parsons/html/stable/table.html
+
 from parsons import Table, GoogleSheets
 import json
 from datetime import datetime, timedelta
