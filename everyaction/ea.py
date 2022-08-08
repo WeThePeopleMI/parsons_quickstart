@@ -1,5 +1,5 @@
 from parsons import Table as table, VAN
-import creds
+import everyaction_creds
 van = VAN(db='EveryAction')
 
 roles = [233756, 468203, 468204, 468205, 468202, 233757] # new roles
