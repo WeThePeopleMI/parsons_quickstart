@@ -1,4 +1,3 @@
 
-everyaction/creds.py
-everyaction/everyaction_creds.example.py
-*creds.py
+everyaction/everyaction_creds.py
+creds.py
