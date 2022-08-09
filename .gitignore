@@ -3,3 +3,6 @@ everyaction/everyaction_creds.py
 creds.py
 google_sheets/service_account_parsons.json
 .DS_Store
+civis/civis_creds.py
+.DS_Store
+.DS_Store
